@@ -1,0 +1,18 @@
+{
+    "name": "hanan467/sync-migrate",
+    "description": "Automatically resolves Laravel migration order based on foreign key dependencies",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hanan467\\SyncMigrate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hanan467",
+            "email": "hananansaresmael@gmail.com"
+        }
+    ],
+    "require": {}
+}
