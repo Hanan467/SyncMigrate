@@ -8,6 +8,13 @@
             "Hanan467\\SyncMigrate\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hanan467\\SyncMigrate\\SyncMigrateServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Hanan467",
